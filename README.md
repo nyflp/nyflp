@@ -4,7 +4,7 @@ Bienvenue sur mon Github. Habituellement c'est un profil que je garde privé : l
 #### Liste de mes projets
 Certains de mes projets ont bénéficié de l'aide d'intelligences artificielles génératives.
 - `nyflp/arkera4-patcher` : projet de site web one page imitant un terminal d'archive réalisé dans le cadre de l'exposition ARKERA4 menée conjointement avec 3 autres artistes. La première représentation à l'heure actuelle est programmée pour l'été 2026.
-- `nyflp/sk_sc-synced` & `nyflp/sk_sc-hub` : fichiers scripts en langage [Skript](https://github.com/SkriptLang/Skript) écrits pour mon serveur Minecraft multijoueur en développement. Ce projet implique également la manipulation du système Ubuntu et d'autres technologies comme SQL.
+- `nyflp/sk_sc-synced` & `nyflp/sk_sc-hub` : fichiers scripts en langage [Skript](https://github.com/SkriptLang/Skript) écrits pour un ancien serveur Minecraft multijoueur. Ce projet implique également la manipulation du système Ubuntu et d'autres technologies comme SQL.
 
 #### Informations personnelles :
 - ORGILLES Quentin
