@@ -1,5 +1,5 @@
 ## nyflp
-Bienvenue sur mon Github. Habituellement c'est un profil que je garde privé : les projets informatiques sur lesquels je travaille sont des projets personnels qui contiennent certaines informations dont il est préférable qu'elles restent confidentielles. Cependant, dans le cadre de mes candidatures en master, j'ai décidé de rendre publics mes *repositories*.
+Bienvenue sur mon Github. Habituellement c'est un profil que je garde privé : les projets informatiques sur lesquels je travaille sont des projets personnels qui contiennent certaines informations dont il est préférable qu'elles restent confidentielles. Cependant, dans le cadre de mes candidatures en master, j'ai décidé de rendre publics quelques-uns de mes *repositories*.
 
 #### Liste de mes projets
 Certains de mes projets ont bénéficié de l'aide d'intelligences artificielles génératives.
